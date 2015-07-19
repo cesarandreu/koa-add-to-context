@@ -1,0 +1,11 @@
+# Logs
+*.log
+
+# Dependency directory
+node_modules
+
+# OS X
+.DS_Store
+
+# Coverage
+.nyc_output

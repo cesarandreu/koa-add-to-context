@@ -1,0 +1,27 @@
+{
+  "name": "koa-add-to-context",
+  "version": "1.0.0",
+  "description": "Koa middleware to add all enumerable keys to the context of each request",
+  "main": "./lib/addToContext.js",
+  "scripts": {
+    "test": "standard && tap ./test/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cesarandreu/koa-add-to-context.git"
+  },
+  "keywords": [
+    "koa",
+    "middleware"
+  ],
+  "author": "Cesar Andreu <cesarandreu@gmail.com> (https://github.com/cesarandreu)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cesarandreu/koa-add-to-context/issues"
+  },
+  "homepage": "https://github.com/cesarandreu/koa-add-to-context#readme",
+  "devDependencies": {
+    "standard": "^4.5.4",
+    "tap": "^1.3.1"
+  }
+}
