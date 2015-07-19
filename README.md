@@ -41,9 +41,9 @@ npm test
 
 MIT
 
-[npm-image]: https://img.shields.io/npm/v/koa-add-to-context.svg?style=flat-square
+[npm-image]: https://img.shields.io/npm/v/koa-add-to-context.svg
 [npm-url]: https://npmjs.org/package/koa-add-to-context
-[travis-image]: https://img.shields.io/travis/cesarandreu/koa-add-to-context/master.svg?style=flat-square
+[travis-image]: https://travis-ci.org/cesarandreu/koa-add-to-context.svg?branch=master
 [travis-url]: https://travis-ci.org/cesarandreu/koa-add-to-context
-[coveralls-image]: https://img.shields.io/coveralls/cesarandreu/koa-add-to-context/master.svg
-[coveralls-url]: https://coveralls.io/github/cesarandreu/koa-add-to-context
+[coveralls-image]: https://coveralls.io/repos/cesarandreu/koa-add-to-context/badge.svg?branch=master
+[coveralls-url]: https://coveralls.io/github/cesarandreu/koa-add-to-context?branch=master
